@@ -1,0 +1,30 @@
+[{
+"id": "ID-1001",
+"name": "Sarah Jenkins",
+"house_number": "42A",
+"car_registration": "ABC-1234"
+},
+{
+"id": "ID-1002",
+"name": "Michael Chen",
+"house_number": "15B",
+"car_registration": "XYZ-5678"
+},
+{
+"id": "ID-1003",
+"name": "Amina Patel",
+"house_number": "8C",
+"car_registration": "KDA-9012"
+},
+{
+"id": "ID-1004",
+"name": "David O'Connor",
+"house_number": "7C",
+"car_registration": "LMN-3456"
+},
+{
+"id": "ID-1005",
+"name": "Elena Rostova",
+"house_number": "10A",
+"car_registration": "EFG-7890"
+}]
